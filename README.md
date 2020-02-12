@@ -7,5 +7,3 @@
 - line 6
 - line 7
 - line 8
-- line 9 in master commit 
-- line 10 in master commit 
